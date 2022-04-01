@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<title>filter-svg</title>
+	<defs>
+		<image  width="24" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAWCAMAAADto6y6AAAAAXNSR0IB2cksfwAAAMZQTFRFJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZAAAAJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZJ8/ZVmRmnQAAAEJ0Uk5Ttuj38Pv68/T27u/4+b+N/f/sJQAI5N8QFfL+N09u/FYCfnZrWUzpWyfCssQgAAznwTvFu90i4ybGksrqkCyFpnUou0SITgAAANRJREFUeJxt0WtfgjAUBvCJmwjDIJ8SOSjQzcrCa6VdLP3+X8oJcamxd3v++52zszHWMtpcGB2za9mSm6bdMYTlyB47c1xPW+55n+HiUoeBDwYMg3xHZS5CnAAjWZ2l3zwDjJ0ij8gjHqOA5EqokPNI3YPENUoAbgIq6tyiDrib5LX4Pf4CHh7V+UDG+A9Iptx6eoYOQJrWNqye16WC2XRuLZY6pCvVnNYzHbJ3eXnVIToN+LbRIfuWra9DNvh7Q3Ouchk2wAfR59euYY7vn/0hqQY8Au7wKgmY1n1IAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 1" href="#img1" x="3" y="4" />
+</svg>

@@ -1,0 +1,20 @@
+{
+  "landing.title": "Welcome!",
+  "login.title": "Login",
+  "login.sign-in": "Sign in",
+  "timeline.title": "Timeline",
+  "postlist.fetchMore": "Load more",
+  "timeline.postlist.title": "Timeline",
+  "timeline.newpost.title": "Add a new message",
+  "newpost.publish": "Publish",
+  "timeline.hello": "Hello",
+  "timeline.signout": "Click here to log out",
+  "timeline.following.btn": "Unfollow",
+  "timeline.following.title": "Following",
+  "timeline.follow.btn": "Follow",
+  "timeline.follow.title": "Followers",
+  "timeline.searchuser.title": "Search users",
+  "timeline.usersfound.title": "Users by nickname",
+  "timeline.usersfound.btn": "Show",
+  "timeline.nodata": "No data"
+}

@@ -1,0 +1,10 @@
+query Follows {
+  following {
+    id
+    nickname
+  }
+  followers {
+    nickname
+    id
+  }
+}

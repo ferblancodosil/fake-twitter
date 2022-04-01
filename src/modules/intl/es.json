@@ -1,0 +1,15 @@
+{
+  "landing.title": "Bienvenido!",
+  "login.title": "Inicio de sesión",
+  "login.sign-in": "Iniciar sesión",
+  "timeline.title": "Línea de tiempo",
+  "postlist.fetchMore": "Cargar más",
+  "timeline.postlist.title": "Timeline",
+  "timeline.newpost.title": "Añade un nuevo mensaje",
+  "newpost.publish": "Publicar",
+  "timeline.hello": "Hola",
+  "timeline.signout": "Pulsa aquí para salir.",
+  "timeline.searchuser.title": "Buscar usuarios",
+  "timeline.usersfound.title": "Usuarios encontrados",
+  "timeline.usersfound.btn": "Ver"
+}
